@@ -1,4 +1,4 @@
-#OTUS Spring Framework course
+# OTUS Spring Framework course
 
 This course has modules:
 - introduction (a simple quiz program)
